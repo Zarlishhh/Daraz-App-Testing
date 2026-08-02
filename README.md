@@ -1,5 +1,5 @@
 Daraz Testing
-A manual testing project for the "Daraz.pk" e-commerce website.
+A manual testing for the "Daraz.pk" e-commerce website.
 
 Contents:
 🔹Test Plan
